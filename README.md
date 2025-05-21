@@ -1,10 +1,8 @@
 # IOT CAPSTONE PROJECT MOBILE APPLICATION
 
-Github source:
-
-```
-    git clone git@github.com:OrcCyber/lrt_mobile.git
-```
+# Related Repositoty
+- GreenSprout_IoT_Firmware: https://github.com/TriTonyyy/GreenSprout_Iot_Firmware
+- GreenSprout_IoT_Web: https://github.com/TriTonyyy/GreenSprout_IoT_Web
 
 ## COMMIT RULES
 
